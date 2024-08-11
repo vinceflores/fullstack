@@ -1,0 +1,6 @@
+[submodule "evently"]
+	path = evently
+	url = https://github.com/vinceflores/evently.git
+[submodule "netflix-nextjs-clone"]
+	path = netflix-nextjs-clone
+	url = https://github.com/vinceflores/netflix-nextjs-clone.git
