@@ -4,3 +4,6 @@
 [submodule "netflix-nextjs-clone"]
 	path = netflix-nextjs-clone
 	url = https://github.com/vinceflores/netflix-nextjs-clone.git
+[submodule "learning-crud-in-springboot-java"]
+	path = learning-crud-in-springboot-java
+	url = https://github.com/vinceflores/learning-springboot-nobsv2.git
