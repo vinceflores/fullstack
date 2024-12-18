@@ -7,3 +7,6 @@
 [submodule "learning-crud-in-springboot-java"]
 	path = learning-crud-in-springboot-java
 	url = https://github.com/vinceflores/learning-springboot-nobsv2.git
+[submodule "recipe_sharing_app"]
+	path = recipe_sharing_app
+	url = https://github.com/vinceflores/recipe_sharing_app.git
